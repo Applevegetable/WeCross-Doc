@@ -136,6 +136,7 @@ vim conf/accounts/fabric_admin_org2/account.toml
 **拷贝证书文件**
 
 Fabric链的证书位于`crypto-config`目录，请参考以下命令并**根据实际情况**完成相关证书的拷贝。
+`crypto-config`文件一般位于`fabric-samples-1.4.4`->`first-network`目录下
 
 ```shell
 cd ~/wecross-networks/routers-payment/127.0.0.1-8251-25501
